@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/fangtao/Android Studio Project/mySMS/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/fangtao/Android Studio Project/mySMS/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/fangtao/Android Studio Project/mySMS/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/fangtao/Android Studio Project/mySMS/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

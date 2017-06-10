@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:5:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:8:5-83
+	android:name
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:9:22-78
+application
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:10:5-41:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/fangtao/.android/build-cache/974742b209c9bda2144c37b8bbd979f24a5391fa/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/fangtao/.android/build-cache/f43452521e843f5ebb1dc1787e84de93a7863c8e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/fangtao/.android/build-cache/8ab27f632df04460bb4a3eeac22fe892a2ccdb44/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/fangtao/.android/build-cache/92040bfc1c9d7f9a8a7a624670a22efab766be80/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/fangtao/.android/build-cache/1c40b1a64560e93cdda15cb948ae5c4d1439dd20/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/fangtao/.android/build-cache/4c3769e5cc999f888bb90d7212fb9da9d0e34e00/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/fangtao/.android/build-cache/1dbadc570031f1c3fe99f3f8dbb7109da70a88fd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/fangtao/.android/build-cache/fdd8efc1e781af0e2ed4f1f78e596f03606d63af/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/fangtao/.android/build-cache/5fbb6aeb0ac766e47eca51d63c30acd122f05d3d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/fangtao/.android/build-cache/8da71221a73c7d19859c3cb29fbe4d70cac30b71/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/fangtao/.android/build-cache/ac44dce0bbb1b2db9e6d150ae7154b5b1f5e5432/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/fangtao/.android/build-cache/d1ba818f05b9e319be1205bdbac24e7eecb45c9c/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.mysms.fangtao.mysms.MainActivity
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:24:27-74
+receiver#com.mysms.fangtao.mysms.ReceiverSms
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:28:9-35:20
+	android:name
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:28:19-46
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.LAUNCHER+android.provider.Telephony.SMS_RECEIVED+com.mysms.fangtao.mysms
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:29:13-34:29
+	android:priority
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:29:28-51
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:30:25-79
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:31:17-78
+	android:name
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:31:25-76
+action#com.mysms.fangtao.mysms
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:33:17-73
+	android:name
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:33:25-63
+service#com.mysms.fangtao.mysms.MyService
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:36:9-40:19
+	android:name
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:36:18-43
+intent-filter#com.mysms.fangtao
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:37:13-39:29
+	android:priority
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:37:28-51
+action#com.mysms.fangtao
+ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:38:17-67
+	android:name
+		ADDED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml:38:25-57
+uses-sdk
+INJECTED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/fangtao/.android/build-cache/974742b209c9bda2144c37b8bbd979f24a5391fa/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /Users/fangtao/.android/build-cache/f43452521e843f5ebb1dc1787e84de93a7863c8e/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/fangtao/.android/build-cache/8ab27f632df04460bb4a3eeac22fe892a2ccdb44/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/fangtao/.android/build-cache/92040bfc1c9d7f9a8a7a624670a22efab766be80/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/fangtao/.android/build-cache/1c40b1a64560e93cdda15cb948ae5c4d1439dd20/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/fangtao/.android/build-cache/16282cebbea5ec44429c2e811aa8615b7c8b41c8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/fangtao/.android/build-cache/4c3769e5cc999f888bb90d7212fb9da9d0e34e00/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/fangtao/.android/build-cache/1dbadc570031f1c3fe99f3f8dbb7109da70a88fd/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/fangtao/.android/build-cache/fdd8efc1e781af0e2ed4f1f78e596f03606d63af/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/fangtao/.android/build-cache/5fbb6aeb0ac766e47eca51d63c30acd122f05d3d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/fangtao/.android/build-cache/8da71221a73c7d19859c3cb29fbe4d70cac30b71/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/fangtao/.android/build-cache/ac44dce0bbb1b2db9e6d150ae7154b5b1f5e5432/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/fangtao/.android/build-cache/d1ba818f05b9e319be1205bdbac24e7eecb45c9c/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/fangtao/.android/build-cache/f43452521e843f5ebb1dc1787e84de93a7863c8e/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fangtao/Android Studio Project/mySMS/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/fangtao/.android/build-cache/f43452521e843f5ebb1dc1787e84de93a7863c8e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/fangtao/.android/build-cache/8ab27f632df04460bb4a3eeac22fe892a2ccdb44/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/fangtao/.android/build-cache/92040bfc1c9d7f9a8a7a624670a22efab766be80/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/fangtao/.android/build-cache/1c40b1a64560e93cdda15cb948ae5c4d1439dd20/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/fangtao/.android/build-cache/16282cebbea5ec44429c2e811aa8615b7c8b41c8/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/fangtao/.android/build-cache/4c3769e5cc999f888bb90d7212fb9da9d0e34e00/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/fangtao/.android/build-cache/1dbadc570031f1c3fe99f3f8dbb7109da70a88fd/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/fangtao/.android/build-cache/fdd8efc1e781af0e2ed4f1f78e596f03606d63af/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/fangtao/.android/build-cache/5fbb6aeb0ac766e47eca51d63c30acd122f05d3d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/fangtao/.android/build-cache/8da71221a73c7d19859c3cb29fbe4d70cac30b71/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/fangtao/.android/build-cache/ac44dce0bbb1b2db9e6d150ae7154b5b1f5e5432/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/fangtao/.android/build-cache/d1ba818f05b9e319be1205bdbac24e7eecb45c9c/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/fangtao/.android/build-cache/f43452521e843f5ebb1dc1787e84de93a7863c8e/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/fangtao/.android/build-cache/f43452521e843f5ebb1dc1787e84de93a7863c8e/output/AndroidManifest.xml:26:9-47
